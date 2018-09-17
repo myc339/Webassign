@@ -1,0 +1,26 @@
+div.name1
+{
+    float:left;
+    width:25%;
+    height:100%;
+   /* background-color:aqua;*/
+}
+div.name2
+{
+    float:left;
+    width:25%;
+    height:100%;
+ /*  background-color:red;*/
+}
+hr{
+    margin:0px;
+    width:100%;
+    color: balck;
+}
+div.splitline{
+    margin:0px 3px;
+    float:left;
+    width:1px;
+    height:50px;
+    background-color:black;
+}
